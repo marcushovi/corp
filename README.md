@@ -1,2 +1,2 @@
 # corp
-Course project
+Udemy Course project
